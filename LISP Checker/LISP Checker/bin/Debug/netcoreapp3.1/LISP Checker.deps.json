@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LISP Checker/1.0.0": {
+        "runtime": {
+          "LISP Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LISP Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
