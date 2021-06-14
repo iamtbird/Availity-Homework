@@ -1,0 +1,13 @@
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.csproj.AssemblyReference.cache
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.AssemblyInfoInputs.cache
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.AssemblyInfo.cs
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.csproj.CoreCompileInputs.cache
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.exe
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.deps.json
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.runtimeconfig.json
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.runtimeconfig.dev.json
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.dll
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\bin\Debug\netcoreapp3.1\Availity CSV Project.pdb
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.dll
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.pdb
+C:\Users\grays\source\repos\Availity CSV Project\Availity CSV Project\obj\Debug\netcoreapp3.1\Availity CSV Project.genruntimeconfig.cache
