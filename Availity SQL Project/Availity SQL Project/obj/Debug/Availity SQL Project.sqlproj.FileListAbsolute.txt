@@ -1,0 +1,6 @@
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\bin\Debug\Availity SQL Project.dacpac
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\obj\Debug\Availity SQL Project.sqlproj.AssemblyReference.cache
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\obj\Debug\Availity_SQL_Project.dll
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\obj\Debug\Availity_SQL_Project.pdb
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\bin\Debug\Availity_SQL_Project.dll
+C:\Users\grays\source\repos\Availity SQL Project\Availity SQL Project\bin\Debug\Availity_SQL_Project.pdb
